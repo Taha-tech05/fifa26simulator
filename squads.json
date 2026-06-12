@@ -1,0 +1,3529 @@
+{
+  "Algeria": {
+    "code": "ALG",
+    "coach": "Vladimir Petkovic",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Mastil Melvin",
+        "shirt": "MASTIL",
+        "dob": "19/02/2000",
+        "club": "FC Stade Nyonnais (SUI)",
+        "height": 194,
+        "caps": 2,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Mandi Aissa",
+        "shirt": "MANDI",
+        "dob": "22/10/1991",
+        "club": "Lille OSC (FRA)",
+        "height": 184,
+        "caps": 119,
+        "goals": 8
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Abada Achref",
+        "shirt": "ABADA",
+        "dob": "15/06/1999",
+        "club": "USM Alger (ALG)",
+        "height": 185,
+        "caps": 10,
+        "goals": 1
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Tougai Mohamed Amine",
+        "shirt": "TOUGAI",
+        "dob": "22/01/2000",
+        "club": "Espérance De Tunisie (TUN)",
+        "height": 186,
+        "caps": 30,
+        "goals": 2
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Belaid Zineddine",
+        "shirt": "BELAID",
+        "dob": "20/03/1999",
+        "club": "JS Kabylie (ALG)",
+        "height": 186,
+        "caps": 18,
+        "goals": 1
+      },
+      {
+        "number": 6,
+        "pos": "MF",
+        "name": "Zerrouki Ramiz",
+        "shirt": "ZERROUKI",
+        "dob": "26/05/1998",
+        "club": "FC Twente (NED)",
+        "height": 183,
+        "caps": 53,
+        "goals": 3
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Mahrez Riyad",
+        "shirt": "MAHREZ",
+        "dob": "21/02/1991",
+        "club": "Al Ahli FC (KSA)",
+        "height": 179,
+        "caps": 116,
+        "goals": 38
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Aouar Houssem",
+        "shirt": "AOUAR",
+        "dob": "30/06/1998",
+        "club": "Al Ittihad (KSA)",
+        "height": 175,
+        "caps": 23,
+        "goals": 6
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Gouiri Amine",
+        "shirt": "GOUIRI",
+        "dob": "16/02/2000",
+        "club": "Olympique Marseille (FRA)",
+        "height": 180,
+        "caps": 23,
+        "goals": 10
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Chaibi Fares",
+        "shirt": "CHAIBI",
+        "dob": "28/11/2002",
+        "club": "Eintracht Frankfurt (GER)",
+        "height": 183,
+        "caps": 31,
+        "goals": 3
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Hadj Moussa Anis",
+        "shirt": "HADJ MOUSSA",
+        "dob": "11/02/2002",
+        "club": "Feyenoord Rotterdam (NED)",
+        "height": 176,
+        "caps": 15,
+        "goals": 2
+      },
+      {
+        "number": 12,
+        "pos": "FW",
+        "name": "Benbouali Nadhir",
+        "shirt": "BENBOUALI",
+        "dob": "17/04/2000",
+        "club": "Györi ETO FC (HUN)",
+        "height": 190,
+        "caps": 4,
+        "goals": 1
+      },
+      {
+        "number": 13,
+        "pos": "DF",
+        "name": "Hadjam Jaouen",
+        "shirt": "HADJAM",
+        "dob": "26/03/2003",
+        "club": "BSC Young Boys (SUI)",
+        "height": 185,
+        "caps": 18,
+        "goals": 3
+      },
+      {
+        "number": 14,
+        "pos": "MF",
+        "name": "Boudaoui Hicham",
+        "shirt": "BOUDAOUI",
+        "dob": "23/09/1999",
+        "club": "OGC Nice (FRA)",
+        "height": 175,
+        "caps": 34,
+        "goals": 0
+      },
+      {
+        "number": 15,
+        "pos": "DF",
+        "name": "Ait-Nouri Rayan",
+        "shirt": "AIT NOURI",
+        "dob": "06/06/2001",
+        "club": "Manchester City FC (ENG)",
+        "height": 180,
+        "caps": 30,
+        "goals": 0
+      },
+      {
+        "number": 16,
+        "pos": "GK",
+        "name": "Benbot Oussama",
+        "shirt": "BENBOT",
+        "dob": "11/10/1994",
+        "club": "USM Alger (ALG)",
+        "height": 188,
+        "caps": 3,
+        "goals": 0
+      },
+      {
+        "number": 17,
+        "pos": "DF",
+        "name": "Belghali Rak",
+        "shirt": "BELGHALI",
+        "dob": "07/06/2002",
+        "club": "Hellas Verona FC (ITA)",
+        "height": 180,
+        "caps": 13,
+        "goals": 1
+      },
+      {
+        "number": 18,
+        "pos": "FW",
+        "name": "Amoura Mohamed",
+        "shirt": "AMOURA",
+        "dob": "09/05/2000",
+        "club": "VfL Wolfsburg (GER)",
+        "height": 170,
+        "caps": 47,
+        "goals": 19
+      },
+      {
+        "number": 19,
+        "pos": "MF",
+        "name": "Bentaleb Nabil",
+        "shirt": "BENTALEB",
+        "dob": "24/11/1994",
+        "club": "Lille OSC (FRA)",
+        "height": 189,
+        "caps": 60,
+        "goals": 6
+      },
+      {
+        "number": 20,
+        "pos": "FW",
+        "name": "Boulbina Adil",
+        "shirt": "BOULBINA",
+        "dob": "02/05/2003",
+        "club": "Al Duhail SC (QAT)",
+        "height": 183,
+        "caps": 11,
+        "goals": 5
+      },
+      {
+        "number": 21,
+        "pos": "DF",
+        "name": "Bensebaini Ramy",
+        "shirt": "BENSEBAINI",
+        "dob": "16/04/1995",
+        "club": "Borussia Dortmund (GER)",
+        "height": 187,
+        "caps": 82,
+        "goals": 9
+      },
+      {
+        "number": 22,
+        "pos": "MF",
+        "name": "Maza Ibrahim",
+        "shirt": "MAZA",
+        "dob": "24/11/2005",
+        "club": "Bayer 04 Leverkusen (GER)",
+        "height": 180,
+        "caps": 17,
+        "goals": 2
+      },
+      {
+        "number": 23,
+        "pos": "GK",
+        "name": "Zidane Luca",
+        "shirt": "ZIDANE",
+        "dob": "13/05/1998",
+        "club": "Granada CF (ESP)",
+        "height": 183,
+        "caps": 7,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "MF",
+        "name": "Titraoui Yassine",
+        "shirt": "TITRAOUI",
+        "dob": "26/07/2003",
+        "club": "Sporting Charleroi (BEL)",
+        "height": 180,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 25,
+        "pos": "FW",
+        "name": "Ghedjemis Fares",
+        "shirt": "GHEDJEMIS",
+        "dob": "06/09/2002",
+        "club": "Frosinone (ITA)",
+        "height": 183,
+        "caps": 1,
+        "goals": 1
+      },
+      {
+        "number": 26,
+        "pos": "DF",
+        "name": "Chergui Samir",
+        "shirt": "CHERGUI",
+        "dob": "06/02/1999",
+        "club": "Paris FC (FRA)",
+        "height": 185,
+        "caps": 5,
+        "goals": 0
+      }
+    ]
+  },
+  "Argentina": {
+    "code": "ARG",
+    "coach": "Lionel Scaloni",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Musso Juan",
+        "shirt": "MUSSO",
+        "dob": "06/05/1994",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 193,
+        "caps": 4,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Balerdi Leonardo",
+        "shirt": "BALERDI",
+        "dob": "26/01/1999",
+        "club": "Olympique Marseille (FRA)",
+        "height": 188,
+        "caps": 11,
+        "goals": 0
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Tagliafico Nicolas",
+        "shirt": "TAGLIAFICO",
+        "dob": "31/08/1992",
+        "club": "Olympique Lyonnais (FRA)",
+        "height": 172,
+        "caps": 76,
+        "goals": 1
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Montiel Gonzalo",
+        "shirt": "MONTIEL",
+        "dob": "01/01/1997",
+        "club": "CA River Plate (ARG)",
+        "height": 175,
+        "caps": 39,
+        "goals": 2
+      },
+      {
+        "number": 5,
+        "pos": "MF",
+        "name": "Paredes Leandro",
+        "shirt": "PAREDES",
+        "dob": "29/06/1994",
+        "club": "CA Boca Juniors (ARG)",
+        "height": 182,
+        "caps": 77,
+        "goals": 5
+      },
+      {
+        "number": 6,
+        "pos": "DF",
+        "name": "Martinez Lisandro",
+        "shirt": "MARTÍNEZ",
+        "dob": "18/01/1998",
+        "club": "Manchester United FC (ENG)",
+        "height": 175,
+        "caps": 28,
+        "goals": 1
+      },
+      {
+        "number": 7,
+        "pos": "MF",
+        "name": "De Paul Rodrigo",
+        "shirt": "DE PAUL",
+        "dob": "24/05/1994",
+        "club": "Inter Miami CF (USA)",
+        "height": 178,
+        "caps": 87,
+        "goals": 2
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Barco Valentin",
+        "shirt": "BARCO",
+        "dob": "23/07/2004",
+        "club": "RC Strasbourg (FRA)",
+        "height": 172,
+        "caps": 4,
+        "goals": 2
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Alvarez Julian",
+        "shirt": "J. ALVAREZ",
+        "dob": "31/01/2000",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 170,
+        "caps": 51,
+        "goals": 14
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Messi Lionel",
+        "shirt": "MESSI",
+        "dob": "24/06/1987",
+        "club": "Inter Miami CF (USA)",
+        "height": 170,
+        "caps": 199,
+        "goals": 117
+      },
+      {
+        "number": 11,
+        "pos": "MF",
+        "name": "Lo Celso Giovani",
+        "shirt": "LO CELSO",
+        "dob": "09/04/1996",
+        "club": "Real Betis (ESP)",
+        "height": 177,
+        "caps": 67,
+        "goals": 4
+      },
+      {
+        "number": 12,
+        "pos": "GK",
+        "name": "Rulli Geronimo",
+        "shirt": "RULLI",
+        "dob": "20/05/1992",
+        "club": "Olympique Marseille (FRA)",
+        "height": 189,
+        "caps": 8,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "DF",
+        "name": "Romero Cristian",
+        "shirt": "ROMERO",
+        "dob": "27/04/1998",
+        "club": "Tottenham Hotspur FC (ENG)",
+        "height": 185,
+        "caps": 51,
+        "goals": 3
+      },
+      {
+        "number": 14,
+        "pos": "MF",
+        "name": "Palacios Exequiel",
+        "shirt": "PALACIOS",
+        "dob": "05/10/1998",
+        "club": "Bayer 04 Leverkusen (GER)",
+        "height": 177,
+        "caps": 40,
+        "goals": 0
+      },
+      {
+        "number": 15,
+        "pos": "MF",
+        "name": "Gonzalez Nico",
+        "shirt": "N. GONZALEZ",
+        "dob": "06/04/1998",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 180,
+        "caps": 51,
+        "goals": 6
+      },
+      {
+        "number": 16,
+        "pos": "FW",
+        "name": "Almada Thiago",
+        "shirt": "ALMADA",
+        "dob": "26/04/2001",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 171,
+        "caps": 16,
+        "goals": 5
+      },
+      {
+        "number": 17,
+        "pos": "FW",
+        "name": "Simeone Giuliano",
+        "shirt": "SIMEONE",
+        "dob": "18/12/2002",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 174,
+        "caps": 13,
+        "goals": 2
+      },
+      {
+        "number": 18,
+        "pos": "FW",
+        "name": "Paz Nico",
+        "shirt": "NICO PAZ",
+        "dob": "08/09/2004",
+        "club": "Como (ITA)",
+        "height": 185,
+        "caps": 9,
+        "goals": 1
+      },
+      {
+        "number": 19,
+        "pos": "DF",
+        "name": "Otamendi Nicolas",
+        "shirt": "OTAMENDI",
+        "dob": "12/02/1988",
+        "club": "SL Benfica (POR)",
+        "height": 182,
+        "caps": 132,
+        "goals": 8
+      },
+      {
+        "number": 20,
+        "pos": "MF",
+        "name": "Mac Allister Alexis",
+        "shirt": "MAC ALLISTER",
+        "dob": "24/12/1998",
+        "club": "Liverpool FC (ENG)",
+        "height": 176,
+        "caps": 46,
+        "goals": 6
+      },
+      {
+        "number": 21,
+        "pos": "FW",
+        "name": "Lopez Jose Manuel",
+        "shirt": "LOPEZ",
+        "dob": "06/12/2000",
+        "club": "SE Palmeiras (BRA)",
+        "height": 190,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 22,
+        "pos": "FW",
+        "name": "Martinez Lautaro",
+        "shirt": "L. MARTINEZ",
+        "dob": "22/08/1997",
+        "club": "FC Internazionale Milano (ITA)",
+        "height": 175,
+        "caps": 77,
+        "goals": 37
+      },
+      {
+        "number": 23,
+        "pos": "GK",
+        "name": "Martinez Emiliano",
+        "shirt": "E. MARTINEZ",
+        "dob": "02/09/1992",
+        "club": "Aston Villa FC (ENG)",
+        "height": 195,
+        "caps": 59,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "MF",
+        "name": "Fernandez Enzo",
+        "shirt": "E. FERNANDEZ",
+        "dob": "17/01/2001",
+        "club": "Chelsea FC (ENG)",
+        "height": 178,
+        "caps": 42,
+        "goals": 6
+      },
+      {
+        "number": 25,
+        "pos": "DF",
+        "name": "Medina Facundo",
+        "shirt": "MEDINA",
+        "dob": "28/05/1999",
+        "club": "Olympique Marseille (FRA)",
+        "height": 184,
+        "caps": 9,
+        "goals": 0
+      },
+      {
+        "number": 26,
+        "pos": "DF",
+        "name": "Molina Nahuel",
+        "shirt": "MOLINA",
+        "dob": "06/04/1998",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 179,
+        "caps": 58,
+        "goals": 1
+      }
+    ]
+  },
+  "Australia": {
+    "code": "AUS",
+    "coach": "Tony Popovic",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Ryan Mathew",
+        "shirt": "RYAN",
+        "dob": "08/04/1992",
+        "club": "Levante UD (ESP)",
+        "height": 184,
+        "caps": 104,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Degenek Milos",
+        "shirt": "DEGENEK",
+        "dob": "28/04/1994",
+        "club": "APOEL FC (CYP)",
+        "height": 187,
+        "caps": 57,
+        "goals": 1
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Circati Alessandro",
+        "shirt": "CIRCATI",
+        "dob": "10/10/2003",
+        "club": "Parma (ITA)",
+        "height": 191,
+        "caps": 13,
+        "goals": 1
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Italiano Jacob",
+        "shirt": "ITALIANO",
+        "dob": "30/07/2001",
+        "club": "Grazer AK (AUT)",
+        "height": 177,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Bos Jordan",
+        "shirt": "BOS",
+        "dob": "29/10/2002",
+        "club": "Feyenoord Rotterdam (NED)",
+        "height": 180,
+        "caps": 27,
+        "goals": 4
+      },
+      {
+        "number": 6,
+        "pos": "DF",
+        "name": "Geria Jason",
+        "shirt": "GERIA",
+        "dob": "10/05/1993",
+        "club": "Albirex Niigata (JPN)",
+        "height": 181,
+        "caps": 14,
+        "goals": 0
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Leckie Mathew",
+        "shirt": "LECKIE",
+        "dob": "04/02/1991",
+        "club": "Melbourne City FC (AUS)",
+        "height": 181,
+        "caps": 81,
+        "goals": 14
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Metcalfe Connor",
+        "shirt": "METCALFE",
+        "dob": "05/11/1999",
+        "club": "FC St. Pauli (GER)",
+        "height": 183,
+        "caps": 36,
+        "goals": 1
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Toure Mohamed",
+        "shirt": "TOURE",
+        "dob": "26/03/2004",
+        "club": "Norwich City FC (ENG)",
+        "height": 186,
+        "caps": 10,
+        "goals": 2
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Hrustic Ajdin",
+        "shirt": "HRUSTIC",
+        "dob": "05/07/1996",
+        "club": "SC Heracles Almelo (NED)",
+        "height": 180,
+        "caps": 37,
+        "goals": 3
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Mabil Awer",
+        "shirt": "MABIL",
+        "dob": "15/09/1995",
+        "club": "CD Castellón (ESP)",
+        "height": 178,
+        "caps": 38,
+        "goals": 10
+      },
+      {
+        "number": 12,
+        "pos": "GK",
+        "name": "Izzo Paul",
+        "shirt": "IZZO",
+        "dob": "06/01/1995",
+        "club": "Randers FC (DEN)",
+        "height": 184,
+        "caps": 4,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "MF",
+        "name": "Oneill Aiden",
+        "shirt": "O'NEILL",
+        "dob": "04/07/1998",
+        "club": "New York City FC (USA)",
+        "height": 180,
+        "caps": 31,
+        "goals": 0
+      },
+      {
+        "number": 14,
+        "pos": "MF",
+        "name": "Devlin Cameron",
+        "shirt": "DEVLIN",
+        "dob": "07/06/1998",
+        "club": "Heart Of Midlothian FC (SCO)",
+        "height": 170,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 15,
+        "pos": "DF",
+        "name": "Trewin Kai",
+        "shirt": "TREWIN",
+        "dob": "18/05/2001",
+        "club": "New York City FC (USA)",
+        "height": 183,
+        "caps": 6,
+        "goals": 0
+      },
+      {
+        "number": 16,
+        "pos": "DF",
+        "name": "Behich Aziz",
+        "shirt": "BEHICH",
+        "dob": "16/12/1990",
+        "club": "Melbourne City FC (AUS)",
+        "height": 170,
+        "caps": 84,
+        "goals": 3
+      },
+      {
+        "number": 17,
+        "pos": "FW",
+        "name": "Irankunda Nestory",
+        "shirt": "IRANKUNDA",
+        "dob": "09/02/2006",
+        "club": "Watford FC (ENG)",
+        "height": 165,
+        "caps": 15,
+        "goals": 5
+      },
+      {
+        "number": 18,
+        "pos": "GK",
+        "name": "Beach Patrick",
+        "shirt": "BEACH",
+        "dob": "06/08/2003",
+        "club": "Melbourne City FC (AUS)",
+        "height": 189,
+        "caps": 2,
+        "goals": 0
+      },
+      {
+        "number": 19,
+        "pos": "DF",
+        "name": "Souttar Harry",
+        "shirt": "SOUTTAR",
+        "dob": "22/10/1998",
+        "club": "Leicester City FC (ENG)",
+        "height": 198,
+        "caps": 38,
+        "goals": 11
+      },
+      {
+        "number": 20,
+        "pos": "FW",
+        "name": "Volpato Cristian",
+        "shirt": "VOLPATO",
+        "dob": "15/11/2003",
+        "club": "US Sassuolo (ITA)",
+        "height": 187,
+        "caps": 1,
+        "goals": 0
+      },
+      {
+        "number": 21,
+        "pos": "DF",
+        "name": "Burgess Cameron",
+        "shirt": "BURGESS",
+        "dob": "21/10/1995",
+        "club": "Swansea City AFC (WAL)",
+        "height": 194,
+        "caps": 27,
+        "goals": 0
+      },
+      {
+        "number": 22,
+        "pos": "MF",
+        "name": "Irvine Jackson",
+        "shirt": "IRVINE",
+        "dob": "07/03/1993",
+        "club": "FC St. Pauli (GER)",
+        "height": 189,
+        "caps": 82,
+        "goals": 14
+      },
+      {
+        "number": 23,
+        "pos": "FW",
+        "name": "Velupillay Nishan",
+        "shirt": "VELUPILLAY",
+        "dob": "07/05/2001",
+        "club": "Melbourne Victory FC (AUS)",
+        "height": 181,
+        "caps": 7,
+        "goals": 3
+      },
+      {
+        "number": 24,
+        "pos": "MF",
+        "name": "Okon-Engstler Paul",
+        "shirt": "OKON-ENGSTLER",
+        "dob": "24/01/2005",
+        "club": "Sydney FC (AUS)",
+        "height": 185,
+        "caps": 6,
+        "goals": 0
+      },
+      {
+        "number": 25,
+        "pos": "DF",
+        "name": "Herrington Lucas",
+        "shirt": "HERRINGTON",
+        "dob": "05/09/2007",
+        "club": "Colorado Rapids (USA)",
+        "height": 193,
+        "caps": 4,
+        "goals": 0
+      },
+      {
+        "number": 26,
+        "pos": "FW",
+        "name": "Yengi Tete",
+        "shirt": "YENGI",
+        "dob": "28/11/2000",
+        "club": "FC Machida Zelvia (JPN)",
+        "height": 197,
+        "caps": 1,
+        "goals": 1
+      }
+    ]
+  },
+  "Brazil": {
+    "code": "BRA",
+    "coach": "Carlo Ancelotti",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Alisson",
+        "shirt": "A. BECKER",
+        "dob": "02/10/1992",
+        "club": "Liverpool FC (ENG)",
+        "height": 193,
+        "caps": 78,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "MF",
+        "name": "Ederson Silva",
+        "shirt": "ÉDERSON S.",
+        "dob": "07/07/1999",
+        "club": "Atalanta Bergamo (ITA)",
+        "height": 184,
+        "caps": 3,
+        "goals": 0
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Gabriel Magalhaes",
+        "shirt": "GABRIEL",
+        "dob": "19/12/1997",
+        "club": "Arsenal FC (ENG)",
+        "height": 190,
+        "caps": 17,
+        "goals": 1
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Marquinhos",
+        "shirt": "MARQUINHOS",
+        "dob": "14/05/1994",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 183,
+        "caps": 105,
+        "goals": 7
+      },
+      {
+        "number": 5,
+        "pos": "MF",
+        "name": "Casemiro",
+        "shirt": "CASEMIRO",
+        "dob": "23/02/1992",
+        "club": "Manchester United FC (ENG)",
+        "height": 185,
+        "caps": 86,
+        "goals": 9
+      },
+      {
+        "number": 6,
+        "pos": "DF",
+        "name": "Alex Sandro",
+        "shirt": "ALEX SANDRO",
+        "dob": "26/01/1991",
+        "club": "CR Flamengo (BRA)",
+        "height": 180,
+        "caps": 45,
+        "goals": 2
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Vinicius Junior",
+        "shirt": "VINI JR.",
+        "dob": "12/07/2000",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 176,
+        "caps": 49,
+        "goals": 9
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Bruno Guimaraes",
+        "shirt": "BRUNO G.",
+        "dob": "16/11/1997",
+        "club": "Newcastle United FC (ENG)",
+        "height": 182,
+        "caps": 43,
+        "goals": 3
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Matheus Cunha",
+        "shirt": "CUNHA",
+        "dob": "27/05/1999",
+        "club": "Manchester United FC (ENG)",
+        "height": 183,
+        "caps": 23,
+        "goals": 1
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Neymar Jr",
+        "shirt": "NEYMAR JR",
+        "dob": "05/02/1992",
+        "club": "Santos FC (BRA)",
+        "height": 175,
+        "caps": 128,
+        "goals": 79
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Raphinha",
+        "shirt": "RAPHINHA",
+        "dob": "14/12/1996",
+        "club": "FC Barcelona (ESP)",
+        "height": 176,
+        "caps": 39,
+        "goals": 11
+      },
+      {
+        "number": 12,
+        "pos": "GK",
+        "name": "Weverton",
+        "shirt": "WEVERTON",
+        "dob": "13/12/1987",
+        "club": "Grêmio FBPA (BRA)",
+        "height": 189,
+        "caps": 11,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "DF",
+        "name": "Danilo",
+        "shirt": "DANILO",
+        "dob": "15/07/1991",
+        "club": "CR Flamengo (BRA)",
+        "height": 184,
+        "caps": 70,
+        "goals": 1
+      },
+      {
+        "number": 14,
+        "pos": "DF",
+        "name": "Bremer",
+        "shirt": "BREMER",
+        "dob": "18/03/1997",
+        "club": "Juventus FC (ITA)",
+        "height": 188,
+        "caps": 8,
+        "goals": 1
+      },
+      {
+        "number": 15,
+        "pos": "DF",
+        "name": "Leo Pereira",
+        "shirt": "LÉO PEREIRA",
+        "dob": "31/01/1996",
+        "club": "CR Flamengo (BRA)",
+        "height": 189,
+        "caps": 4,
+        "goals": 0
+      },
+      {
+        "number": 16,
+        "pos": "DF",
+        "name": "Douglas Santos",
+        "shirt": "DOUGLAS S.",
+        "dob": "22/03/1994",
+        "club": "FC Zenit St. Petersburg (RUS)",
+        "height": 173,
+        "caps": 7,
+        "goals": 0
+      },
+      {
+        "number": 17,
+        "pos": "MF",
+        "name": "Fabinho",
+        "shirt": "FABINHO",
+        "dob": "23/10/1993",
+        "club": "Al Ittihad (KSA)",
+        "height": 188,
+        "caps": 33,
+        "goals": 0
+      },
+      {
+        "number": 18,
+        "pos": "MF",
+        "name": "Danilo Santos",
+        "shirt": "DANILO S.",
+        "dob": "29/04/2001",
+        "club": "Botafogo (BRA)",
+        "height": 177,
+        "caps": 4,
+        "goals": 2
+      },
+      {
+        "number": 19,
+        "pos": "FW",
+        "name": "Endrick",
+        "shirt": "ENDRICK",
+        "dob": "21/07/2006",
+        "club": "Olympique Lyonnais (FRA)",
+        "height": 172,
+        "caps": 17,
+        "goals": 4
+      },
+      {
+        "number": 20,
+        "pos": "MF",
+        "name": "Lucas Paqueta",
+        "shirt": "L. PAQUETÁ",
+        "dob": "27/08/1997",
+        "club": "CR Flamengo (BRA)",
+        "height": 183,
+        "caps": 63,
+        "goals": 13
+      },
+      {
+        "number": 21,
+        "pos": "FW",
+        "name": "Luiz Henrique",
+        "shirt": "L. HENRIQUE",
+        "dob": "02/01/2001",
+        "club": "FC Zenit St. Petersburg (RUS)",
+        "height": 182,
+        "caps": 15,
+        "goals": 2
+      },
+      {
+        "number": 22,
+        "pos": "FW",
+        "name": "Gabriel Martinelli",
+        "shirt": "MARTINELLI",
+        "dob": "18/06/2001",
+        "club": "Arsenal FC (ENG)",
+        "height": 178,
+        "caps": 23,
+        "goals": 4
+      },
+      {
+        "number": 23,
+        "pos": "GK",
+        "name": "Ederson",
+        "shirt": "EDERSON",
+        "dob": "17/08/1993",
+        "club": "Fenerbahçe SK (TUR)",
+        "height": 188,
+        "caps": 32,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "DF",
+        "name": "Roger Ibanez",
+        "shirt": "IBAÑEZ",
+        "dob": "23/11/1998",
+        "club": "Al Ahli FC (KSA)",
+        "height": 186,
+        "caps": 7,
+        "goals": 0
+      },
+      {
+        "number": 25,
+        "pos": "FW",
+        "name": "Igor Thiago",
+        "shirt": "THIAGO",
+        "dob": "26/06/2001",
+        "club": "Brentford FC (ENG)",
+        "height": 190,
+        "caps": 4,
+        "goals": 2
+      },
+      {
+        "number": 26,
+        "pos": "FW",
+        "name": "Rayan",
+        "shirt": "RAYAN",
+        "dob": "03/08/2006",
+        "club": "AFC Bournemouth (ENG)",
+        "height": 187,
+        "caps": 2,
+        "goals": 1
+      }
+    ]
+  },
+  "England": {
+    "code": "ENG",
+    "coach": "Thomas Tuchel",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Pickford Jordan",
+        "shirt": "PICKFORD",
+        "dob": "07/03/1994",
+        "club": "Everton FC (ENG)",
+        "height": 185,
+        "caps": 84,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Konsa Ezri",
+        "shirt": "KONSA",
+        "dob": "23/10/1997",
+        "club": "Aston Villa FC (ENG)",
+        "height": 180,
+        "caps": 20,
+        "goals": 1
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Oreilly Nico",
+        "shirt": "O'REILLY",
+        "dob": "21/03/2005",
+        "club": "Manchester City FC (ENG)",
+        "height": 177,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 4,
+        "pos": "MF",
+        "name": "Rice Declan",
+        "shirt": "RICE",
+        "dob": "14/01/1999",
+        "club": "Arsenal FC (ENG)",
+        "height": 185,
+        "caps": 73,
+        "goals": 7
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Stones John",
+        "shirt": "STONES",
+        "dob": "28/05/1994",
+        "club": "Manchester City FC (ENG)",
+        "height": 188,
+        "caps": 89,
+        "goals": 3
+      },
+      {
+        "number": 6,
+        "pos": "DF",
+        "name": "Guehi Marc",
+        "shirt": "GUÉHI",
+        "dob": "13/07/2000",
+        "club": "Manchester City FC (ENG)",
+        "height": 183,
+        "caps": 29,
+        "goals": 1
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Saka Bukayo",
+        "shirt": "SAKA",
+        "dob": "05/09/2001",
+        "club": "Arsenal FC (ENG)",
+        "height": 178,
+        "caps": 49,
+        "goals": 14
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Anderson Elliot",
+        "shirt": "ANDERSON",
+        "dob": "06/11/2002",
+        "club": "Nottingham Forest FC (ENG)",
+        "height": 179,
+        "caps": 9,
+        "goals": 0
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Kane Harry",
+        "shirt": "KANE",
+        "dob": "28/07/1993",
+        "club": "FC Bayern München (GER)",
+        "height": 190,
+        "caps": 114,
+        "goals": 79
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Bellingham Jude",
+        "shirt": "BELLINGHAM",
+        "dob": "29/06/2003",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 183,
+        "caps": 48,
+        "goals": 6
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Rashford Marcus",
+        "shirt": "RASHFORD",
+        "dob": "31/10/1997",
+        "club": "FC Barcelona (ESP)",
+        "height": 180,
+        "caps": 72,
+        "goals": 18
+      },
+      {
+        "number": 12,
+        "pos": "DF",
+        "name": "Livramento Tino",
+        "shirt": "LIVRAMENTO",
+        "dob": "12/11/2002",
+        "club": "Newcastle United FC (ENG)",
+        "height": 182,
+        "caps": 6,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "GK",
+        "name": "Henderson Dean",
+        "shirt": "D. HENDERSON",
+        "dob": "12/03/1997",
+        "club": "Crystal Palace FC (ENG)",
+        "height": 188,
+        "caps": 4,
+        "goals": 0
+      },
+      {
+        "number": 14,
+        "pos": "MF",
+        "name": "Henderson Jordan",
+        "shirt": "HENDERSON",
+        "dob": "17/06/1990",
+        "club": "Brentford FC (ENG)",
+        "height": 183,
+        "caps": 91,
+        "goals": 3
+      },
+      {
+        "number": 15,
+        "pos": "DF",
+        "name": "Burn Dan",
+        "shirt": "BURN",
+        "dob": "09/05/1992",
+        "club": "Newcastle United FC (ENG)",
+        "height": 201,
+        "caps": 8,
+        "goals": 0
+      },
+      {
+        "number": 16,
+        "pos": "MF",
+        "name": "Mainoo Kobbie",
+        "shirt": "MAINOO",
+        "dob": "19/04/2005",
+        "club": "Manchester United FC (ENG)",
+        "height": 183,
+        "caps": 14,
+        "goals": 0
+      },
+      {
+        "number": 17,
+        "pos": "MF",
+        "name": "Rogers Morgan",
+        "shirt": "ROGERS",
+        "dob": "26/07/2002",
+        "club": "Aston Villa FC (ENG)",
+        "height": 187,
+        "caps": 15,
+        "goals": 1
+      },
+      {
+        "number": 18,
+        "pos": "FW",
+        "name": "Gordon Anthony",
+        "shirt": "GORDON",
+        "dob": "24/02/2001",
+        "club": "Newcastle United FC (ENG)",
+        "height": 182,
+        "caps": 19,
+        "goals": 3
+      },
+      {
+        "number": 19,
+        "pos": "FW",
+        "name": "Watkins Ollie",
+        "shirt": "WATKINS",
+        "dob": "30/12/1995",
+        "club": "Aston Villa FC (ENG)",
+        "height": 180,
+        "caps": 22,
+        "goals": 7
+      },
+      {
+        "number": 20,
+        "pos": "FW",
+        "name": "Madueke Noni",
+        "shirt": "MADUEKE",
+        "dob": "10/03/2002",
+        "club": "Arsenal FC (ENG)",
+        "height": 182,
+        "caps": 11,
+        "goals": 1
+      },
+      {
+        "number": 21,
+        "pos": "MF",
+        "name": "Eze Eberechi",
+        "shirt": "EZE",
+        "dob": "29/06/1998",
+        "club": "Arsenal FC (ENG)",
+        "height": 178,
+        "caps": 17,
+        "goals": 3
+      },
+      {
+        "number": 22,
+        "pos": "FW",
+        "name": "Toney Ivan",
+        "shirt": "TONEY",
+        "dob": "16/03/1996",
+        "club": "Al Ahli FC (KSA)",
+        "height": 185,
+        "caps": 8,
+        "goals": 1
+      },
+      {
+        "number": 23,
+        "pos": "GK",
+        "name": "Trafford James",
+        "shirt": "TRAFFORD",
+        "dob": "10/10/2002",
+        "club": "Manchester City FC (ENG)",
+        "height": 197,
+        "caps": 2,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "DF",
+        "name": "James Reece",
+        "shirt": "JAMES",
+        "dob": "08/12/1999",
+        "club": "Chelsea FC (ENG)",
+        "height": 180,
+        "caps": 24,
+        "goals": 1
+      },
+      {
+        "number": 25,
+        "pos": "DF",
+        "name": "Spence Djed",
+        "shirt": "SPENCE",
+        "dob": "09/08/2000",
+        "club": "Tottenham Hotspur FC (ENG)",
+        "height": 184,
+        "caps": 6,
+        "goals": 0
+      },
+      {
+        "number": 26,
+        "pos": "DF",
+        "name": "Quansah Jarell",
+        "shirt": "QUANSAH",
+        "dob": "29/01/2003",
+        "club": "Bayer 04 Leverkusen (GER)",
+        "height": 190,
+        "caps": 3,
+        "goals": 0
+      }
+    ]
+  },
+  "France": {
+    "code": "FRA",
+    "coach": "Didier Deschamps",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Samba Brice",
+        "shirt": "SAMBA",
+        "dob": "25/04/1994",
+        "club": "Stade Rennais FC (FRA)",
+        "height": 187,
+        "caps": 4,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Gusto Malo",
+        "shirt": "GUSTO",
+        "dob": "19/05/2003",
+        "club": "Chelsea FC (ENG)",
+        "height": 179,
+        "caps": 11,
+        "goals": 0
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Digne Lucas",
+        "shirt": "DIGNE",
+        "dob": "20/07/1993",
+        "club": "Aston Villa FC (ENG)",
+        "height": 178,
+        "caps": 58,
+        "goals": 0
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Upamecano Dayot",
+        "shirt": "UPAMECANO",
+        "dob": "27/10/1998",
+        "club": "FC Bayern München (GER)",
+        "height": 186,
+        "caps": 38,
+        "goals": 2
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Kounde Jules",
+        "shirt": "KOUNDE",
+        "dob": "12/11/1998",
+        "club": "FC Barcelona (ESP)",
+        "height": 178,
+        "caps": 48,
+        "goals": 0
+      },
+      {
+        "number": 6,
+        "pos": "MF",
+        "name": "Kone Manu",
+        "shirt": "KONE",
+        "dob": "17/05/2001",
+        "club": "AS Roma (ITA)",
+        "height": 185,
+        "caps": 14,
+        "goals": 0
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Dembele Ousmane",
+        "shirt": "DEMBELE",
+        "dob": "15/05/1997",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 179,
+        "caps": 59,
+        "goals": 7
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Tchouameni Aurelien",
+        "shirt": "TCHOUAMENI",
+        "dob": "27/01/2000",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 188,
+        "caps": 46,
+        "goals": 3
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Thuram Marcus",
+        "shirt": "THURAM",
+        "dob": "06/08/1997",
+        "club": "FC Internazionale Milano (ITA)",
+        "height": 192,
+        "caps": 34,
+        "goals": 3
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Mbappe Kylian",
+        "shirt": "MBAPPE",
+        "dob": "20/12/1998",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 180,
+        "caps": 98,
+        "goals": 56
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Olise Michael",
+        "shirt": "OLISE",
+        "dob": "12/12/2001",
+        "club": "FC Bayern München (GER)",
+        "height": 184,
+        "caps": 17,
+        "goals": 7
+      },
+      {
+        "number": 12,
+        "pos": "FW",
+        "name": "Barcola Bradley",
+        "shirt": "BARCOLA",
+        "dob": "02/09/2002",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 187,
+        "caps": 20,
+        "goals": 3
+      },
+      {
+        "number": 13,
+        "pos": "MF",
+        "name": "Kante Ngolo",
+        "shirt": "KANTE",
+        "dob": "29/03/1991",
+        "club": "Fenerbahçe SK (TUR)",
+        "height": 171,
+        "caps": 69,
+        "goals": 2
+      },
+      {
+        "number": 14,
+        "pos": "MF",
+        "name": "Rabiot Adrien",
+        "shirt": "RABIOT",
+        "dob": "03/04/1995",
+        "club": "AC Milan (ITA)",
+        "height": 191,
+        "caps": 59,
+        "goals": 7
+      },
+      {
+        "number": 15,
+        "pos": "DF",
+        "name": "Konate Ibrahima",
+        "shirt": "KONATE",
+        "dob": "25/05/1999",
+        "club": "Liverpool FC (ENG)",
+        "height": 194,
+        "caps": 28,
+        "goals": 0
+      },
+      {
+        "number": 16,
+        "pos": "GK",
+        "name": "Maignan Mike",
+        "shirt": "MAIGNAN",
+        "dob": "03/07/1995",
+        "club": "AC Milan (ITA)",
+        "height": 191,
+        "caps": 40,
+        "goals": 0
+      },
+      {
+        "number": 17,
+        "pos": "DF",
+        "name": "Saliba William",
+        "shirt": "SALIBA",
+        "dob": "24/03/2001",
+        "club": "Arsenal FC (ENG)",
+        "height": 192,
+        "caps": 32,
+        "goals": 0
+      },
+      {
+        "number": 18,
+        "pos": "MF",
+        "name": "Zaire-Emery Warren",
+        "shirt": "ZAIRE EMERY",
+        "dob": "08/03/2006",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 176,
+        "caps": 11,
+        "goals": 1
+      },
+      {
+        "number": 19,
+        "pos": "DF",
+        "name": "Hernandez Theo",
+        "shirt": "T. HERNANDEZ",
+        "dob": "06/10/1997",
+        "club": "Al Hilal SC (KSA)",
+        "height": 184,
+        "caps": 44,
+        "goals": 2
+      },
+      {
+        "number": 20,
+        "pos": "FW",
+        "name": "Doue Desire",
+        "shirt": "DOUE",
+        "dob": "03/06/2005",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 182,
+        "caps": 7,
+        "goals": 2
+      },
+      {
+        "number": 21,
+        "pos": "DF",
+        "name": "Hernandez Lucas",
+        "shirt": "L. HERNANDEZ",
+        "dob": "14/02/1996",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 184,
+        "caps": 42,
+        "goals": 0
+      },
+      {
+        "number": 22,
+        "pos": "FW",
+        "name": "Mateta Jean-Philippe",
+        "shirt": "MATETA",
+        "dob": "28/06/1997",
+        "club": "Crystal Palace FC (ENG)",
+        "height": 192,
+        "caps": 4,
+        "goals": 2
+      },
+      {
+        "number": 23,
+        "pos": "GK",
+        "name": "Risser Robin",
+        "shirt": "RISSER",
+        "dob": "02/12/2004",
+        "club": "RC Lens (FRA)",
+        "height": 193,
+        "caps": 0,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "MF",
+        "name": "Cherki Rayan",
+        "shirt": "CHERKI",
+        "dob": "17/08/2003",
+        "club": "Manchester City FC (ENG)",
+        "height": 180,
+        "caps": 7,
+        "goals": 2
+      },
+      {
+        "number": 25,
+        "pos": "MF",
+        "name": "Akliouche Maghnes",
+        "shirt": "AKLIOUCHE",
+        "dob": "25/02/2002",
+        "club": "AS Monaco (FRA)",
+        "height": 183,
+        "caps": 9,
+        "goals": 1
+      },
+      {
+        "number": 26,
+        "pos": "DF",
+        "name": "Lacroix Maxence",
+        "shirt": "LACROIX",
+        "dob": "06/04/2000",
+        "club": "Crystal Palace FC (ENG)",
+        "height": 192,
+        "caps": 4,
+        "goals": 0
+      }
+    ]
+  },
+  "Germany": {
+    "code": "GER",
+    "coach": "Julian Nagelsmann",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Neuer Manuel",
+        "shirt": "NEUER",
+        "dob": "27/03/1986",
+        "club": "FC Bayern München (GER)",
+        "height": 193,
+        "caps": 124,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Ruediger Antonio",
+        "shirt": "RÜDIGER",
+        "dob": "03/03/1993",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 190,
+        "caps": 82,
+        "goals": 3
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Anton Waldemar",
+        "shirt": "ANTON",
+        "dob": "20/07/1996",
+        "club": "Borussia Dortmund (GER)",
+        "height": 189,
+        "caps": 13,
+        "goals": 0
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Tah Jonathan",
+        "shirt": "TAH",
+        "dob": "11/02/1996",
+        "club": "FC Bayern München (GER)",
+        "height": 195,
+        "caps": 47,
+        "goals": 1
+      },
+      {
+        "number": 5,
+        "pos": "MF",
+        "name": "Pavlovic Aleksandar",
+        "shirt": "PAVLOVIĆ",
+        "dob": "03/05/2004",
+        "club": "FC Bayern München (GER)",
+        "height": 188,
+        "caps": 11,
+        "goals": 1
+      },
+      {
+        "number": 6,
+        "pos": "DF",
+        "name": "Kimmich Joshua",
+        "shirt": "KIMMICH",
+        "dob": "08/02/1995",
+        "club": "FC Bayern München (GER)",
+        "height": 177,
+        "caps": 110,
+        "goals": 10
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Havertz Kai",
+        "shirt": "HAVERTZ",
+        "dob": "11/06/1999",
+        "club": "Arsenal FC (ENG)",
+        "height": 190,
+        "caps": 58,
+        "goals": 22
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Goretzka Leon",
+        "shirt": "GORETZKA",
+        "dob": "06/02/1995",
+        "club": "FC Bayern München (GER)",
+        "height": 189,
+        "caps": 70,
+        "goals": 15
+      },
+      {
+        "number": 9,
+        "pos": "MF",
+        "name": "Leweling Jamie",
+        "shirt": "LEWELING",
+        "dob": "26/02/2001",
+        "club": "VfB Stuttgart (GER)",
+        "height": 185,
+        "caps": 5,
+        "goals": 1
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Musiala Jamal",
+        "shirt": "MUSIALA",
+        "dob": "26/02/2003",
+        "club": "FC Bayern München (GER)",
+        "height": 180,
+        "caps": 42,
+        "goals": 9
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Woltemade Nick",
+        "shirt": "WOLTEMADE",
+        "dob": "14/02/2002",
+        "club": "Newcastle United FC (ENG)",
+        "height": 198,
+        "caps": 11,
+        "goals": 4
+      },
+      {
+        "number": 12,
+        "pos": "GK",
+        "name": "Baumann Oliver",
+        "shirt": "BAUMANN",
+        "dob": "02/06/1990",
+        "club": "TSG Hoffenheim (GER)",
+        "height": 187,
+        "caps": 13,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "MF",
+        "name": "Gross Pascal",
+        "shirt": "GROß",
+        "dob": "15/06/1991",
+        "club": "Brighton & Hove Albion FC (ENG)",
+        "height": 181,
+        "caps": 18,
+        "goals": 1
+      },
+      {
+        "number": 14,
+        "pos": "FW",
+        "name": "Beier Maximilian",
+        "shirt": "BEIER",
+        "dob": "17/10/2002",
+        "club": "Borussia Dortmund (GER)",
+        "height": 185,
+        "caps": 9,
+        "goals": 0
+      },
+      {
+        "number": 15,
+        "pos": "DF",
+        "name": "Schlotterbeck Nico",
+        "shirt": "SCHLOTTERBECK",
+        "dob": "01/12/1999",
+        "club": "Borussia Dortmund (GER)",
+        "height": 191,
+        "caps": 27,
+        "goals": 0
+      },
+      {
+        "number": 16,
+        "pos": "MF",
+        "name": "Stiller Angelo",
+        "shirt": "STILLER",
+        "dob": "04/04/2001",
+        "club": "VfB Stuttgart (GER)",
+        "height": 183,
+        "caps": 8,
+        "goals": 0
+      },
+      {
+        "number": 17,
+        "pos": "MF",
+        "name": "Wirtz Florian",
+        "shirt": "WIRTZ",
+        "dob": "03/05/2003",
+        "club": "Liverpool FC (ENG)",
+        "height": 176,
+        "caps": 41,
+        "goals": 11
+      },
+      {
+        "number": 18,
+        "pos": "DF",
+        "name": "Brown Nathaniel",
+        "shirt": "BROWN",
+        "dob": "16/06/2003",
+        "club": "Eintracht Frankfurt (GER)",
+        "height": 176,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 19,
+        "pos": "MF",
+        "name": "Sane Leroy",
+        "shirt": "SANÉ",
+        "dob": "11/01/1996",
+        "club": "Galatasaray SK (TUR)",
+        "height": 183,
+        "caps": 76,
+        "goals": 17
+      },
+      {
+        "number": 20,
+        "pos": "MF",
+        "name": "Amiri Nadiem",
+        "shirt": "AMIRI",
+        "dob": "27/10/1996",
+        "club": "1. FSV Mainz 05 (GER)",
+        "height": 178,
+        "caps": 11,
+        "goals": 1
+      },
+      {
+        "number": 21,
+        "pos": "GK",
+        "name": "Nuebel Alexander",
+        "shirt": "NÜBEL",
+        "dob": "30/09/1996",
+        "club": "VfB Stuttgart (GER)",
+        "height": 193,
+        "caps": 3,
+        "goals": 0
+      },
+      {
+        "number": 22,
+        "pos": "DF",
+        "name": "Raum David",
+        "shirt": "RAUM",
+        "dob": "22/04/1998",
+        "club": "RB Leipzig (GER)",
+        "height": 180,
+        "caps": 37,
+        "goals": 1
+      },
+      {
+        "number": 23,
+        "pos": "MF",
+        "name": "Nmecha Felix",
+        "shirt": "NMECHA",
+        "dob": "10/10/2000",
+        "club": "Borussia Dortmund (GER)",
+        "height": 190,
+        "caps": 8,
+        "goals": 1
+      },
+      {
+        "number": 24,
+        "pos": "DF",
+        "name": "Thiaw Malick",
+        "shirt": "THIAW",
+        "dob": "08/08/2001",
+        "club": "Newcastle United FC (ENG)",
+        "height": 194,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 25,
+        "pos": "MF",
+        "name": "Ouedraogo Assan",
+        "shirt": "OUÉDRAOGO",
+        "dob": "09/05/2006",
+        "club": "RB Leipzig (GER)",
+        "height": 191,
+        "caps": 1,
+        "goals": 1
+      },
+      {
+        "number": 26,
+        "pos": "FW",
+        "name": "Undav Deniz",
+        "shirt": "UNDAV",
+        "dob": "19/07/1996",
+        "club": "VfB Stuttgart (GER)",
+        "height": 179,
+        "caps": 9,
+        "goals": 6
+      }
+    ]
+  },
+  "Spain": {
+    "code": "ESP",
+    "coach": "Luis De La Fuente",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Raya David",
+        "shirt": "RAYA",
+        "dob": "15/09/1995",
+        "club": "Arsenal FC (ENG)",
+        "height": 186,
+        "caps": 13,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Pubill Marc",
+        "shirt": "MARC PUBILL",
+        "dob": "20/06/2003",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 191,
+        "caps": 2,
+        "goals": 0
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Grimaldo Alex",
+        "shirt": "GRIMALDO",
+        "dob": "20/09/1995",
+        "club": "Bayer 04 Leverkusen (GER)",
+        "height": 171,
+        "caps": 14,
+        "goals": 0
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Garcia Eric",
+        "shirt": "ERIC",
+        "dob": "09/01/2001",
+        "club": "FC Barcelona (ESP)",
+        "height": 183,
+        "caps": 21,
+        "goals": 0
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Llorente Marcos",
+        "shirt": "M. LLORENTE",
+        "dob": "30/01/1995",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 183,
+        "caps": 24,
+        "goals": 0
+      },
+      {
+        "number": 6,
+        "pos": "MF",
+        "name": "Merino Mikel",
+        "shirt": "MERINO",
+        "dob": "22/06/1996",
+        "club": "Arsenal FC (ENG)",
+        "height": 188,
+        "caps": 43,
+        "goals": 10
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Torres Ferran",
+        "shirt": "FERRAN",
+        "dob": "29/02/2000",
+        "club": "FC Barcelona (ESP)",
+        "height": 183,
+        "caps": 57,
+        "goals": 24
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Ruiz Fabian",
+        "shirt": "FABIÁN",
+        "dob": "03/04/1996",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 188,
+        "caps": 42,
+        "goals": 6
+      },
+      {
+        "number": 9,
+        "pos": "MF",
+        "name": "Gavi",
+        "shirt": "GAVI",
+        "dob": "05/08/2004",
+        "club": "FC Barcelona (ESP)",
+        "height": 173,
+        "caps": 30,
+        "goals": 5
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Olmo Dani",
+        "shirt": "OLMO",
+        "dob": "07/05/1998",
+        "club": "FC Barcelona (ESP)",
+        "height": 179,
+        "caps": 50,
+        "goals": 12
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Pino Yeremy",
+        "shirt": "YEREMY",
+        "dob": "20/10/2002",
+        "club": "Crystal Palace FC (ENG)",
+        "height": 174,
+        "caps": 23,
+        "goals": 4
+      },
+      {
+        "number": 12,
+        "pos": "DF",
+        "name": "Porro Pedro",
+        "shirt": "PEDRO PORRO",
+        "dob": "13/09/1999",
+        "club": "Tottenham Hotspur FC (ENG)",
+        "height": 173,
+        "caps": 18,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "GK",
+        "name": "Garcia Joan",
+        "shirt": "JOAN GARCIA",
+        "dob": "04/05/2001",
+        "club": "FC Barcelona (ESP)",
+        "height": 194,
+        "caps": 2,
+        "goals": 0
+      },
+      {
+        "number": 14,
+        "pos": "DF",
+        "name": "Laporte Aymeric",
+        "shirt": "LAPORTE",
+        "dob": "27/05/1994",
+        "club": "Athletic Club (ESP)",
+        "height": 191,
+        "caps": 46,
+        "goals": 2
+      },
+      {
+        "number": 15,
+        "pos": "MF",
+        "name": "Baena Alex",
+        "shirt": "ALEX B.",
+        "dob": "20/07/2001",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 172,
+        "caps": 17,
+        "goals": 2
+      },
+      {
+        "number": 16,
+        "pos": "MF",
+        "name": "Rodri",
+        "shirt": "RODRIGO",
+        "dob": "22/06/1996",
+        "club": "Manchester City FC (ENG)",
+        "height": 190,
+        "caps": 62,
+        "goals": 4
+      },
+      {
+        "number": 17,
+        "pos": "FW",
+        "name": "Williams Nico",
+        "shirt": "WILLIAMS JR.",
+        "dob": "12/07/2002",
+        "club": "Athletic Club (ESP)",
+        "height": 181,
+        "caps": 30,
+        "goals": 6
+      },
+      {
+        "number": 18,
+        "pos": "MF",
+        "name": "Zubimendi Martin",
+        "shirt": "ZUBIMENDI",
+        "dob": "02/02/1999",
+        "club": "Arsenal FC (ENG)",
+        "height": 181,
+        "caps": 26,
+        "goals": 3
+      },
+      {
+        "number": 19,
+        "pos": "FW",
+        "name": "Yamal Lamine",
+        "shirt": "LAMINE YAMAL",
+        "dob": "13/07/2007",
+        "club": "FC Barcelona (ESP)",
+        "height": 183,
+        "caps": 25,
+        "goals": 6
+      },
+      {
+        "number": 20,
+        "pos": "MF",
+        "name": "Pedri",
+        "shirt": "PEDRI",
+        "dob": "25/11/2002",
+        "club": "FC Barcelona (ESP)",
+        "height": 174,
+        "caps": 41,
+        "goals": 6
+      },
+      {
+        "number": 21,
+        "pos": "FW",
+        "name": "Oyarzabal Mikel",
+        "shirt": "OYARZABAL",
+        "dob": "21/04/1997",
+        "club": "Real Sociedad (ESP)",
+        "height": 181,
+        "caps": 53,
+        "goals": 25
+      },
+      {
+        "number": 22,
+        "pos": "DF",
+        "name": "Cubarsi Pau",
+        "shirt": "CUBARSÍ",
+        "dob": "22/01/2007",
+        "club": "FC Barcelona (ESP)",
+        "height": 183,
+        "caps": 12,
+        "goals": 0
+      },
+      {
+        "number": 23,
+        "pos": "GK",
+        "name": "Simon Unai",
+        "shirt": "UNAI SIMÓN",
+        "dob": "11/06/1997",
+        "club": "Athletic Club (ESP)",
+        "height": 190,
+        "caps": 58,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "DF",
+        "name": "Cucurella Marc",
+        "shirt": "CUCURELLA",
+        "dob": "22/07/1998",
+        "club": "Chelsea FC (ENG)",
+        "height": 173,
+        "caps": 24,
+        "goals": 1
+      },
+      {
+        "number": 25,
+        "pos": "FW",
+        "name": "Munoz Victor",
+        "shirt": "VICTOR M.V.",
+        "dob": "13/07/2003",
+        "club": "CA Osasuna (ESP)",
+        "height": 173,
+        "caps": 2,
+        "goals": 1
+      },
+      {
+        "number": 26,
+        "pos": "FW",
+        "name": "Iglesias Borja",
+        "shirt": "B. IGLESIAS",
+        "dob": "17/01/1993",
+        "club": "RC Celta Vigo (ESP)",
+        "height": 187,
+        "caps": 8,
+        "goals": 0
+      }
+    ]
+  },
+  "Portugal": {
+    "code": "POR",
+    "coach": "Roberto Martinez",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Diogo Costa",
+        "shirt": "DIOGO COSTA",
+        "dob": "19/09/1999",
+        "club": "FC Porto (POR)",
+        "height": 188,
+        "caps": 43,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Nelson Semedo",
+        "shirt": "N. SEMEDO",
+        "dob": "16/11/1993",
+        "club": "Fenerbahçe SK (TUR)",
+        "height": 179,
+        "caps": 50,
+        "goals": 0
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Ruben Dias",
+        "shirt": "RÚBEN DIAS",
+        "dob": "14/05/1997",
+        "club": "Manchester City FC (ENG)",
+        "height": 187,
+        "caps": 76,
+        "goals": 3
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Tomas Araujo",
+        "shirt": "TOMÁS A.",
+        "dob": "16/05/2002",
+        "club": "SL Benfica (POR)",
+        "height": 187,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Diogo Dalot",
+        "shirt": "DALOT",
+        "dob": "18/03/1999",
+        "club": "Manchester United FC (ENG)",
+        "height": 184,
+        "caps": 35,
+        "goals": 3
+      },
+      {
+        "number": 6,
+        "pos": "MF",
+        "name": "Matheus Nunes",
+        "shirt": "MATHEUS N.",
+        "dob": "27/08/1998",
+        "club": "Manchester City FC (ENG)",
+        "height": 183,
+        "caps": 20,
+        "goals": 2
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Cristiano Ronaldo",
+        "shirt": "RONALDO",
+        "dob": "05/02/1985",
+        "club": "Al Nassr FC (KSA)",
+        "height": 185,
+        "caps": 228,
+        "goals": 143
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Bruno Fernandes",
+        "shirt": "B. FERNANDES",
+        "dob": "08/09/1994",
+        "club": "Manchester United FC (ENG)",
+        "height": 183,
+        "caps": 89,
+        "goals": 29
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Goncalo Ramos",
+        "shirt": "G. RAMOS",
+        "dob": "20/06/2001",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 185,
+        "caps": 25,
+        "goals": 10
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Bernardo Silva",
+        "shirt": "BERNARDO",
+        "dob": "10/08/1994",
+        "club": "Manchester City FC (ENG)",
+        "height": 173,
+        "caps": 109,
+        "goals": 14
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Joao Felix",
+        "shirt": "JOÃO FÉLIX",
+        "dob": "10/11/1999",
+        "club": "Al Nassr FC (KSA)",
+        "height": 179,
+        "caps": 54,
+        "goals": 12
+      },
+      {
+        "number": 12,
+        "pos": "GK",
+        "name": "Jose Sa",
+        "shirt": "JOSÉ SÁ",
+        "dob": "17/01/1993",
+        "club": "Wolverhampton Wanderers FC (ENG)",
+        "height": 192,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 13,
+        "pos": "DF",
+        "name": "Renato Veiga",
+        "shirt": "RENATO VEIGA",
+        "dob": "29/07/2003",
+        "club": "Villarreal CF (ESP)",
+        "height": 188,
+        "caps": 13,
+        "goals": 1
+      },
+      {
+        "number": 14,
+        "pos": "DF",
+        "name": "Goncalo Inacio",
+        "shirt": "G. INÁCIO",
+        "dob": "25/08/2001",
+        "club": "Sporting CP (POR)",
+        "height": 185,
+        "caps": 22,
+        "goals": 2
+      },
+      {
+        "number": 15,
+        "pos": "MF",
+        "name": "Joao Neves",
+        "shirt": "JOÃO NEVES",
+        "dob": "27/09/2004",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 171,
+        "caps": 22,
+        "goals": 3
+      },
+      {
+        "number": 16,
+        "pos": "FW",
+        "name": "Francisco Trincao",
+        "shirt": "TRINCÃO",
+        "dob": "29/12/1999",
+        "club": "Sporting CP (POR)",
+        "height": 184,
+        "caps": 18,
+        "goals": 3
+      },
+      {
+        "number": 17,
+        "pos": "FW",
+        "name": "Rafael Leao",
+        "shirt": "RAFA LEÃO",
+        "dob": "10/06/1999",
+        "club": "AC Milan (ITA)",
+        "height": 188,
+        "caps": 44,
+        "goals": 5
+      },
+      {
+        "number": 18,
+        "pos": "FW",
+        "name": "Pedro Neto",
+        "shirt": "NETO",
+        "dob": "09/03/2000",
+        "club": "Chelsea FC (ENG)",
+        "height": 174,
+        "caps": 25,
+        "goals": 3
+      },
+      {
+        "number": 19,
+        "pos": "FW",
+        "name": "Goncalo Guedes",
+        "shirt": "G. GUEDES",
+        "dob": "29/11/1996",
+        "club": "Real Sociedad (ESP)",
+        "height": 179,
+        "caps": 35,
+        "goals": 8
+      },
+      {
+        "number": 20,
+        "pos": "DF",
+        "name": "Joao Cancelo",
+        "shirt": "JOÃO CANCELO",
+        "dob": "27/05/1994",
+        "club": "FC Barcelona (ESP)",
+        "height": 173,
+        "caps": 68,
+        "goals": 12
+      },
+      {
+        "number": 21,
+        "pos": "MF",
+        "name": "Ruben Neves",
+        "shirt": "R. NEVES",
+        "dob": "13/03/1997",
+        "club": "Al Hilal SC (KSA)",
+        "height": 183,
+        "caps": 67,
+        "goals": 1
+      },
+      {
+        "number": 22,
+        "pos": "GK",
+        "name": "Rui Silva",
+        "shirt": "RUI SILVA",
+        "dob": "07/02/1994",
+        "club": "Sporting CP (POR)",
+        "height": 191,
+        "caps": 3,
+        "goals": 0
+      },
+      {
+        "number": 23,
+        "pos": "MF",
+        "name": "Vitinha",
+        "shirt": "VITINHA",
+        "dob": "13/02/2000",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 170,
+        "caps": 38,
+        "goals": 0
+      },
+      {
+        "number": 24,
+        "pos": "DF",
+        "name": "Samu Costa",
+        "shirt": "SAMÚ",
+        "dob": "27/11/2000",
+        "club": "RCD Mallorca (ESP)",
+        "height": 185,
+        "caps": 6,
+        "goals": 0
+      },
+      {
+        "number": 25,
+        "pos": "DF",
+        "name": "Nuno Mendes",
+        "shirt": "N. MENDES",
+        "dob": "19/06/2002",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 177,
+        "caps": 44,
+        "goals": 1
+      },
+      {
+        "number": 26,
+        "pos": "FW",
+        "name": "Francisco Conceicao",
+        "shirt": "F. CONCEIÇÃO",
+        "dob": "14/12/2002",
+        "club": "Juventus FC (ITA)",
+        "height": 166,
+        "caps": 17,
+        "goals": 4
+      }
+    ]
+  },
+  "Morocco": {
+    "code": "MAR",
+    "coach": "Mohamed Ouahbi",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Bounou Yassine",
+        "shirt": "BONO",
+        "dob": "05/04/1991",
+        "club": "Al Hilal SC (KSA)",
+        "height": 192,
+        "caps": 90,
+        "goals": 0
+      },
+      {
+        "number": 2,
+        "pos": "DF",
+        "name": "Hakimi Achraf",
+        "shirt": "HAKIMI",
+        "dob": "04/11/1998",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 180,
+        "caps": 96,
+        "goals": 11
+      },
+      {
+        "number": 3,
+        "pos": "DF",
+        "name": "Mazraoui Noussair",
+        "shirt": "MAZRAOUI",
+        "dob": "14/11/1997",
+        "club": "Manchester United FC (ENG)",
+        "height": 183,
+        "caps": 45,
+        "goals": 2
+      },
+      {
+        "number": 4,
+        "pos": "MF",
+        "name": "Amrabat Sofyan",
+        "shirt": "AMRABAT",
+        "dob": "21/08/1996",
+        "club": "Real Betis (ESP)",
+        "height": 185,
+        "caps": 75,
+        "goals": 0
+      },
+      {
+        "number": 5,
+        "pos": "DF",
+        "name": "Saadane Marwane",
+        "shirt": "SAADANE",
+        "dob": "17/01/1992",
+        "club": "Al Fateh SC (KSA)",
+        "height": 185,
+        "caps": 17,
+        "goals": 1
+      },
+      {
+        "number": 6,
+        "pos": "MF",
+        "name": "Bouaddi Ayyoub",
+        "shirt": "BOUADDI",
+        "dob": "02/10/2007",
+        "club": "Lille OSC (FRA)",
+        "height": 185,
+        "caps": 3,
+        "goals": 0
+      },
+      {
+        "number": 7,
+        "pos": "MF",
+        "name": "Talbi Chemsdine",
+        "shirt": "TALBI",
+        "dob": "09/05/2005",
+        "club": "Sunderland AFC (ENG)",
+        "height": 175,
+        "caps": 5,
+        "goals": 0
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Ounahi Azzedine",
+        "shirt": "OUNAHI",
+        "dob": "19/04/2000",
+        "club": "Girona FC (ESP)",
+        "height": 182,
+        "caps": 49,
+        "goals": 9
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Rahimi Souane",
+        "shirt": "RAHIMI",
+        "dob": "02/06/1996",
+        "club": "Al Ain FC (UAE)",
+        "height": 180,
+        "caps": 37,
+        "goals": 12
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Diaz Brahim",
+        "shirt": "BRAHIM",
+        "dob": "03/08/1999",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 170,
+        "caps": 26,
+        "goals": 15
+      },
+      {
+        "number": 11,
+        "pos": "MF",
+        "name": "Saibari Ismael",
+        "shirt": "SAIBARI",
+        "dob": "28/01/2001",
+        "club": "PSV Eindhoven (NED)",
+        "height": 185,
+        "caps": 30,
+        "goals": 9
+      },
+      {
+        "number": 20,
+        "pos": "FW",
+        "name": "El Kaabi Ayoub",
+        "shirt": "EL KAABI",
+        "dob": "25/06/1993",
+        "club": "Olympiacos FC (GRE)",
+        "height": 182,
+        "caps": 71,
+        "goals": 36
+      },
+      {
+        "number": 23,
+        "pos": "MF",
+        "name": "El Khannouss Bilal",
+        "shirt": "EL KHANNOUSS",
+        "dob": "10/05/2004",
+        "club": "VfB Stuttgart (GER)",
+        "height": 180,
+        "caps": 37,
+        "goals": 3
+      }
+    ]
+  },
+  "Netherlands": {
+    "code": "NED",
+    "coach": "Ronald Koeman",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Verbruggen Bart",
+        "shirt": "VERBRUGGEN",
+        "dob": "18/08/2002",
+        "club": "Brighton & Hove Albion FC (ENG)",
+        "height": 193,
+        "caps": 29,
+        "goals": 0
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Van Dijk Virgil",
+        "shirt": "VIRGIL",
+        "dob": "08/07/1991",
+        "club": "Liverpool FC (ENG)",
+        "height": 195,
+        "caps": 92,
+        "goals": 12
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Depay Memphis",
+        "shirt": "MEMPHIS",
+        "dob": "13/02/1994",
+        "club": "SC Corinthians (BRA)",
+        "height": 178,
+        "caps": 109,
+        "goals": 55
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Gakpo Cody",
+        "shirt": "GAKPO",
+        "dob": "07/05/1999",
+        "club": "Liverpool FC (ENG)",
+        "height": 193,
+        "caps": 50,
+        "goals": 21
+      },
+      {
+        "number": 14,
+        "pos": "MF",
+        "name": "Reijnders Tijjani",
+        "shirt": "REIJNDERS",
+        "dob": "29/07/1998",
+        "club": "Manchester City FC (ENG)",
+        "height": 178,
+        "caps": 32,
+        "goals": 7
+      },
+      {
+        "number": 20,
+        "pos": "MF",
+        "name": "Koopmeiners Teun",
+        "shirt": "KOOPMEINERS",
+        "dob": "28/02/1998",
+        "club": "Juventus FC (ITA)",
+        "height": 185,
+        "caps": 28,
+        "goals": 3
+      },
+      {
+        "number": 21,
+        "pos": "MF",
+        "name": "De Jong Frenkie",
+        "shirt": "F. DE JONG",
+        "dob": "12/05/1997",
+        "club": "FC Barcelona (ESP)",
+        "height": 181,
+        "caps": 66,
+        "goals": 2
+      },
+      {
+        "number": 22,
+        "pos": "DF",
+        "name": "Dumfries Denzel",
+        "shirt": "DUMFRIES",
+        "dob": "18/04/1996",
+        "club": "FC Internazionale Milano (ITA)",
+        "height": 188,
+        "caps": 72,
+        "goals": 11
+      }
+    ]
+  },
+  "Belgium": {
+    "code": "BEL",
+    "coach": "Rudi Garcia",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Courtois Thibaut",
+        "shirt": "COURTOIS",
+        "dob": "11/05/1992",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 199,
+        "caps": 109,
+        "goals": 0
+      },
+      {
+        "number": 7,
+        "pos": "MF",
+        "name": "De Bruyne Kevin",
+        "shirt": "DE BRUYNE",
+        "dob": "28/06/1991",
+        "club": "SSC Napoli (ITA)",
+        "height": 181,
+        "caps": 119,
+        "goals": 37
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Lukaku Romelu",
+        "shirt": "LUKAKU",
+        "dob": "13/05/1993",
+        "club": "SSC Napoli (ITA)",
+        "height": 190,
+        "caps": 126,
+        "goals": 90
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Trossard Leandro",
+        "shirt": "TROSSARD",
+        "dob": "04/12/1994",
+        "club": "Arsenal FC (ENG)",
+        "height": 172,
+        "caps": 51,
+        "goals": 12
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Doku Jeremy",
+        "shirt": "DOKU",
+        "dob": "27/05/2002",
+        "club": "Manchester City FC (ENG)",
+        "height": 173,
+        "caps": 43,
+        "goals": 7
+      },
+      {
+        "number": 17,
+        "pos": "FW",
+        "name": "De Ketelaere Charles",
+        "shirt": "DE KETELAERE",
+        "dob": "10/03/2001",
+        "club": "Atalanta Bergamo (ITA)",
+        "height": 192,
+        "caps": 30,
+        "goals": 6
+      }
+    ]
+  },
+  "Uruguay": {
+    "code": "URU",
+    "coach": "Marcelo Bielsa",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Rochet Sergio",
+        "shirt": "S. ROCHET",
+        "dob": "23/03/1993",
+        "club": "SC Internacional (BRA)",
+        "height": 189,
+        "caps": 35,
+        "goals": 0
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Valverde Federico",
+        "shirt": "F. VALVERDE",
+        "dob": "22/07/1998",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 182,
+        "caps": 73,
+        "goals": 9
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Nunez Darwin",
+        "shirt": "D. NUÑEZ",
+        "dob": "24/06/1999",
+        "club": "Al Hilal SC (KSA)",
+        "height": 185,
+        "caps": 38,
+        "goals": 13
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "De Arrascaeta Giorgian",
+        "shirt": "G. DE ARRASCAETA",
+        "dob": "01/06/1994",
+        "club": "CR Flamengo (BRA)",
+        "height": 177,
+        "caps": 59,
+        "goals": 13
+      },
+      {
+        "number": 5,
+        "pos": "MF",
+        "name": "Ugarte Manuel",
+        "shirt": "M. UGARTE",
+        "dob": "11/04/2001",
+        "club": "Manchester United FC (ENG)",
+        "height": 182,
+        "caps": 35,
+        "goals": 1
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Araujo Ronald",
+        "shirt": "R. ARAUJO",
+        "dob": "07/03/1999",
+        "club": "FC Barcelona (ESP)",
+        "height": 185,
+        "caps": 27,
+        "goals": 1
+      }
+    ]
+  },
+  "Colombia": {
+    "code": "COL",
+    "coach": "Nestor Lorenzo",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Ospina David",
+        "shirt": "OSPINA",
+        "dob": "31/08/1988",
+        "club": "Atlético Nacional (COL)",
+        "height": 183,
+        "caps": 130,
+        "goals": 0
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Diaz Luis",
+        "shirt": "LUIS DIAZ",
+        "dob": "13/01/1997",
+        "club": "FC Bayern München (GER)",
+        "height": 179,
+        "caps": 74,
+        "goals": 22
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Rodriguez James",
+        "shirt": "JAMES",
+        "dob": "12/07/1991",
+        "club": "Minnesota United FC (USA)",
+        "height": 181,
+        "caps": 126,
+        "goals": 31
+      },
+      {
+        "number": 22,
+        "pos": "FW",
+        "name": "Martinez Lautaro",
+        "shirt": "L. MARTINEZ",
+        "dob": "22/08/1997",
+        "club": "FC Internazionale Milano (ITA)",
+        "height": 175,
+        "caps": 77,
+        "goals": 37
+      }
+    ]
+  },
+  "USA": {
+    "code": "USA",
+    "coach": "Mauricio Pochettino",
+    "players": [
+      {
+        "number": 1,
+        "pos": "GK",
+        "name": "Turner Matt",
+        "shirt": "TURNER",
+        "dob": "24/06/1994",
+        "club": "New England Revolution (USA)",
+        "height": 190,
+        "caps": 54,
+        "goals": 0
+      },
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Pulisic Christian",
+        "shirt": "PULISIC",
+        "dob": "18/09/1998",
+        "club": "AC Milan (ITA)",
+        "height": 177,
+        "caps": 86,
+        "goals": 33
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "McKennie Weston",
+        "shirt": "MCKENNIE",
+        "dob": "28/08/1998",
+        "club": "Juventus FC (ITA)",
+        "height": 180,
+        "caps": 66,
+        "goals": 12
+      },
+      {
+        "number": 7,
+        "pos": "MF",
+        "name": "Reyna Giovanni",
+        "shirt": "REYNA",
+        "dob": "13/11/2002",
+        "club": "Borussia Mönchengladbach (GER)",
+        "height": 187,
+        "caps": 38,
+        "goals": 9
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Pepi Ricardo",
+        "shirt": "PEPI",
+        "dob": "09/01/2003",
+        "club": "PSV Eindhoven (NED)",
+        "height": 185,
+        "caps": 37,
+        "goals": 13
+      },
+      {
+        "number": 19,
+        "pos": "DF",
+        "name": "Davies Alphonso",
+        "shirt": "DAVIES",
+        "dob": "02/11/2000",
+        "club": "FC Bayern München (GER)",
+        "height": 183,
+        "caps": 58,
+        "goals": 15
+      }
+    ]
+  },
+  "Mexico": {
+    "code": "MEX",
+    "coach": "Javier Aguirre",
+    "players": [
+      {
+        "number": 13,
+        "pos": "GK",
+        "name": "Ochoa Guillermo",
+        "shirt": "G. OCHOA",
+        "dob": "13/07/1985",
+        "club": "AEL Limassol (CYP)",
+        "height": 185,
+        "caps": 153,
+        "goals": 0
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Jimenez Raul",
+        "shirt": "RAÚL",
+        "dob": "05/05/1991",
+        "club": "Fulham FC (ENG)",
+        "height": 188,
+        "caps": 126,
+        "goals": 45
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Gimenez Santiago",
+        "shirt": "S. GIMENEZ",
+        "dob": "18/04/2001",
+        "club": "AC Milan (ITA)",
+        "height": 180,
+        "caps": 47,
+        "goals": 6
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Alvarez Edson",
+        "shirt": "E. ÁLVAREZ",
+        "dob": "24/10/1997",
+        "club": "Fenerbahçe SK (TUR)",
+        "height": 180,
+        "caps": 99,
+        "goals": 7
+      }
+    ]
+  },
+  "Canada": {
+    "code": "CAN",
+    "coach": "Jesse Marsch",
+    "players": [
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "David Jonathan",
+        "shirt": "J. DAVID",
+        "dob": "14/01/2000",
+        "club": "Juventus FC (ITA)",
+        "height": 175,
+        "caps": 77,
+        "goals": 39
+      },
+      {
+        "number": 19,
+        "pos": "DF",
+        "name": "Davies Alphonso",
+        "shirt": "DAVIES",
+        "dob": "02/11/2000",
+        "club": "FC Bayern München (GER)",
+        "height": 183,
+        "caps": 58,
+        "goals": 15
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Larin Cyle",
+        "shirt": "LARIN",
+        "dob": "17/04/1995",
+        "club": "Southampton FC (ENG)",
+        "height": 188,
+        "caps": 90,
+        "goals": 30
+      }
+    ]
+  },
+  "Japan": {
+    "code": "JPN",
+    "coach": "Hajime Moriyasu",
+    "players": [
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Son Heungmin",
+        "shirt": "HEUNGMIN",
+        "dob": "08/07/1992",
+        "club": "LAFC (USA)",
+        "height": 183,
+        "caps": 144,
+        "goals": 56
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Kubo Takefusa",
+        "shirt": "KUBO",
+        "dob": "04/06/2001",
+        "club": "Real Sociedad (ESP)",
+        "height": 173,
+        "caps": 49,
+        "goals": 7
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Ueda Ayase",
+        "shirt": "AYASE",
+        "dob": "28/08/1998",
+        "club": "Feyenoord Rotterdam (NED)",
+        "height": 182,
+        "caps": 40,
+        "goals": 16
+      }
+    ]
+  },
+  "Norway": {
+    "code": "NOR",
+    "coach": "Stale Solbakken",
+    "players": [
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Haaland Erling",
+        "shirt": "BRAUT HAALAND",
+        "dob": "21/07/2000",
+        "club": "Manchester City FC (ENG)",
+        "height": 195,
+        "caps": 50,
+        "goals": 55
+      },
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Odegaard Martin",
+        "shirt": "ØDEGAARD",
+        "dob": "17/12/1998",
+        "club": "Arsenal FC (ENG)",
+        "height": 178,
+        "caps": 68,
+        "goals": 5
+      },
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Sorloth Alexander",
+        "shirt": "SØRLOTH",
+        "dob": "05/12/1995",
+        "club": "Atlético De Madrid (ESP)",
+        "height": 196,
+        "caps": 72,
+        "goals": 26
+      }
+    ]
+  },
+  "Sweden": {
+    "code": "SWE",
+    "coach": "Graham Potter",
+    "players": [
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Isak Alexander",
+        "shirt": "ISAK",
+        "dob": "21/09/1999",
+        "club": "Liverpool FC (ENG)",
+        "height": 190,
+        "caps": 58,
+        "goals": 17
+      },
+      {
+        "number": 17,
+        "pos": "FW",
+        "name": "Gyokeres Viktor",
+        "shirt": "GYÖKERES",
+        "dob": "04/06/1998",
+        "club": "Arsenal FC (ENG)",
+        "height": 189,
+        "caps": 33,
+        "goals": 20
+      }
+    ]
+  },
+  "Croatia": {
+    "code": "CRO",
+    "coach": "Zlatko Dalic",
+    "players": [
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Modric Luka",
+        "shirt": "MODRIĆ",
+        "dob": "09/09/1985",
+        "club": "AC Milan (ITA)",
+        "height": 172,
+        "caps": 198,
+        "goals": 29
+      },
+      {
+        "number": 8,
+        "pos": "MF",
+        "name": "Kovacic Mateo",
+        "shirt": "KOVAČIĆ",
+        "dob": "06/05/1994",
+        "club": "Manchester City FC (ENG)",
+        "height": 178,
+        "caps": 113,
+        "goals": 5
+      },
+      {
+        "number": 9,
+        "pos": "FW",
+        "name": "Kramaric Andrej",
+        "shirt": "KRAMARIĆ",
+        "dob": "19/06/1991",
+        "club": "TSG Hoffenheim (GER)",
+        "height": 177,
+        "caps": 116,
+        "goals": 36
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Gvardiol Josko",
+        "shirt": "GVARDIOL",
+        "dob": "23/01/2002",
+        "club": "Manchester City FC (ENG)",
+        "height": 185,
+        "caps": 48,
+        "goals": 4
+      }
+    ]
+  },
+  "Senegal": {
+    "code": "SEN",
+    "coach": "Pape Thiaw",
+    "players": [
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Mane Sadio",
+        "shirt": "MANÉ",
+        "dob": "10/04/1992",
+        "club": "Al Nassr FC (KSA)",
+        "height": 175,
+        "caps": 130,
+        "goals": 54
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Jackson Nicolas",
+        "shirt": "JACKSON",
+        "dob": "20/06/2001",
+        "club": "FC Bayern München (GER)",
+        "height": 187,
+        "caps": 34,
+        "goals": 8
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Koulibaly Kalidou",
+        "shirt": "KOULIBALY",
+        "dob": "20/06/1991",
+        "club": "Al Hilal SC (KSA)",
+        "height": 186,
+        "caps": 104,
+        "goals": 2
+      }
+    ]
+  },
+  "Egypt": {
+    "code": "EGY",
+    "coach": "Hossam Hassan",
+    "players": [
+      {
+        "number": 10,
+        "pos": "FW",
+        "name": "Mohamed Salah",
+        "shirt": "M. SALAH",
+        "dob": "15/06/1992",
+        "club": "Liverpool FC (ENG)",
+        "height": 175,
+        "caps": 116,
+        "goals": 67
+      },
+      {
+        "number": 22,
+        "pos": "FW",
+        "name": "Omar Marmoush",
+        "shirt": "MARMOUSH",
+        "dob": "07/02/1999",
+        "club": "Manchester City FC (ENG)",
+        "height": 180,
+        "caps": 50,
+        "goals": 11
+      }
+    ]
+  },
+  "Korea Republic": {
+    "code": "KOR",
+    "coach": "Hong Myungbo",
+    "players": [
+      {
+        "number": 7,
+        "pos": "FW",
+        "name": "Son Heungmin",
+        "shirt": "HEUNGMIN",
+        "dob": "08/07/1992",
+        "club": "LAFC (USA)",
+        "height": 183,
+        "caps": 144,
+        "goals": 56
+      },
+      {
+        "number": 4,
+        "pos": "DF",
+        "name": "Kim Minjae",
+        "shirt": "MINJAE",
+        "dob": "15/11/1996",
+        "club": "FC Bayern München (GER)",
+        "height": 190,
+        "caps": 79,
+        "goals": 4
+      },
+      {
+        "number": 19,
+        "pos": "MF",
+        "name": "Lee Kangin",
+        "shirt": "KANGIN",
+        "dob": "19/02/2001",
+        "club": "Paris Saint-Germain (FRA)",
+        "height": 174,
+        "caps": 47,
+        "goals": 10
+      }
+    ]
+  },
+  "Turkey": {
+    "code": "TUR",
+    "coach": "Vincenzo Montella",
+    "players": [
+      {
+        "number": 10,
+        "pos": "MF",
+        "name": "Calhanoglu Hakan",
+        "shirt": "ÇALHANOĞLU",
+        "dob": "08/02/1994",
+        "club": "FC Internazionale Milano (ITA)",
+        "height": 178,
+        "caps": 106,
+        "goals": 22
+      },
+      {
+        "number": 8,
+        "pos": "FW",
+        "name": "Guler Arda",
+        "shirt": "ARDA GÜLER",
+        "dob": "25/02/2005",
+        "club": "Real Madrid C. F. (ESP)",
+        "height": 175,
+        "caps": 30,
+        "goals": 6
+      },
+      {
+        "number": 11,
+        "pos": "FW",
+        "name": "Yildiz Kenan",
+        "shirt": "YILDIZ",
+        "dob": "04/05/2005",
+        "club": "Juventus FC (ITA)",
+        "height": 187,
+        "caps": 28,
+        "goals": 5
+      }
+    ]
+  }
+}

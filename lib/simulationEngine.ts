@@ -122,7 +122,7 @@ export function simulateMinute(context: SimulationContext, minute: number): Minu
   runTeam("home");
   runTeam("away");
 
-  if (minute > 20 && chance(0.4)) {
+  if (minute > 20 && chance(0.02)) {
     const teamSide: "home" | "away" = Math.random() > 0.5 ? "home" : "away";
     const squad = teamSide === "home" ? context.homeSquad : context.awaySquad;
     const lineupIds = teamSide === "home" ? context.homeLineup : context.awayLineup;
